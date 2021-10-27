@@ -1,1 +1,1 @@
-# Smart Inventory+Checkout System for Retail
+# Smart Inventory + Checkout System for Retail
